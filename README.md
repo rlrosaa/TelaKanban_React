@@ -6,7 +6,6 @@ Este repositório contém uma tela Kanban desenvolvida em React. A tela permite 
 Link para o projeto [aqui](https://8zthkk-3000.csb.app/)
 
 Você pode também clonar este repositório em sua máquina local.
-Execute o comando npm start para iniciar a aplicação.
 
 ## Funcionalidades
 A tela Kanban possui as seguintes funcionalidades:
