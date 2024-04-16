@@ -11,12 +11,12 @@ Execute o comando npm start para iniciar a aplicação.
 ## Funcionalidades
 A tela Kanban possui as seguintes funcionalidades:
 
-Adicionar novas tarefas;
-Mover tarefas entre as colunas;
-Editar tarefas existentes;
-Excluir tarefas.
+* Adicionar novas tarefas;
+* Mover tarefas entre as colunas;
+* Editar tarefas existentes;
+* Excluir tarefas.
 
-##Tecnologias utilizadas
+## Tecnologias utilizadas
 A tela Kanban foi desenvolvida utilizando as seguintes tecnologias:
 
 * React
