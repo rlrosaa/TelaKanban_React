@@ -13,7 +13,7 @@ export default function TaskItem({
   const [editableTitle, setEditableTitle] = useState(taskTitle);
 
   const onTitleChange = (event) => {
-    newTitle = event.target.value;
+    let newTitle = event.target.value;
     setEditableTitle(newTitle);
     onTaskUpdate(id, newTitle, taskState);
   };
